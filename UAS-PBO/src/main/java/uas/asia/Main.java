@@ -8,7 +8,7 @@ import uas.asia.noteapp.NoteAppMenu;
 
 /**
  *
- * @author 
+ * @author alf
  */
 public class Main {
 
